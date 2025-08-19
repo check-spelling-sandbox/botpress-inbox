@@ -1,6 +1,6 @@
 # 🤖 BOTPRESS INBOX ✉️
 
-This inbox dashboard can be used for managing conversations and users of your Botpress bot. It uses the official API (in Beta still) and Typescript client.
+This inbox dashboard can be used for managing conversations and users of your Botpress bot. It uses the official API (in Beta still) and TypeScript client.
 
 ## ✳️ Features
 
@@ -56,7 +56,7 @@ This project makes use of the following libraries:
 -   Vite.js v3.1 - app build
 -   Botpress Client v0.1.1 - requests to the botpress API
 -   Date-fns v2.30 - date formatting
--   Typescript v4.8 - typings and interfaces
+-   TypeScript v4.8 - typings and interfaces
 -   TailwindCSS v3.1 - styling
 -   React Router Dom v6.11 - routing
 -   CryptoJS - encrypting keys
